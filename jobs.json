@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-13T13:27:47.865Z",
-  "count": 56,
+  "generated_at": "2026-07-13T13:43:06.240Z",
+  "count": 52,
   "niche": "english-jobs-germany",
   "source": "filtered view of heynish/werkstudent-praktikum-jobs (public ATS APIs + Arbeitsagentur + Adzuna)",
-  "upstream_generated_at": "2026-07-13T08:00:55.821Z",
+  "upstream_generated_at": "2026-07-13T13:42:32.055Z",
   "roles": [
     {
       "company": "Doctolib",
@@ -45,7 +45,7 @@
       "city": "Berlin",
       "location": "Berlin",
       "posted": "2026-07-12",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XRECT5-JJH-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=motel-one-berlin-upper-west&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-XRECT5-JJH-S"
     },
@@ -83,70 +83,26 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=solaris&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fsolarisbank%2Fjobs%2F8566230002"
     },
     {
-      "company": "Qonto",
-      "title": "Website Project Manager Intern",
+      "company": "Choco",
+      "title": "Workplace & Culture Intern",
       "type": "Praktikum",
       "city": "Berlin",
       "location": "Berlin",
-      "posted": "2026-07-01T16:08:07.423Z",
-      "posted_days_ago": 12,
-      "raw_url": "https://jobs.lever.co/qonto/4442a8c2-a644-4880-a1da-dda5830ff399",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=qonto&url=https%3A%2F%2Fjobs.lever.co%2Fqonto%2F4442a8c2-a644-4880-a1da-dda5830ff399"
+      "posted": "2026-07-10T16:15:06.901+00:00",
+      "posted_days_ago": 3,
+      "raw_url": "https://jobs.ashbyhq.com/choco/b61d2dbb-94e6-45fb-850b-abc0642aca6e",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=choco&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fchoco%2Fb61d2dbb-94e6-45fb-850b-abc0642aca6e"
     },
     {
-      "company": "Raisin",
-      "title": "Intern Communications & PR - German speaking (m/f/d)",
+      "company": "Enpal",
+      "title": "Business Analytics Internship (f/m/x)",
       "type": "Praktikum",
       "city": "Berlin",
-      "location": "Berlin, Berlin, Germany",
-      "posted": "2026-07-07T11:16:26-04:00",
-      "posted_days_ago": 6,
-      "raw_url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4889924101",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=raisin&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fraisin%2Fjobs%2F4889924101"
-    },
-    {
-      "company": "Raisin",
-      "title": "Intern - Product Management (m/f/d)",
-      "type": "Praktikum",
-      "city": "Berlin",
-      "location": "Berlin, Berlin, Germany",
-      "posted": "2026-07-07T11:16:26-04:00",
-      "posted_days_ago": 6,
-      "raw_url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4912725101",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=raisin&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fraisin%2Fjobs%2F4912725101"
-    },
-    {
-      "company": "SumUp",
-      "title": "AI Product Intern",
-      "type": "Praktikum",
-      "city": "Berlin",
-      "location": "Berlin, Germany",
-      "posted": "2026-07-02T06:18:05-04:00",
-      "posted_days_ago": 11,
-      "raw_url": "https://sumup.com/careers/positions/8285272002?gh_jid=8285272002",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=sumup&url=https%3A%2F%2Fsumup.com%2Fcareers%2Fpositions%2F8285272002%3Fgh_jid%3D8285272002"
-    },
-    {
-      "company": "Wolt",
-      "title": "Account Management Intern",
-      "type": "Praktikum",
-      "city": "Berlin",
-      "location": "Berlin, Germany",
-      "posted": "2026-06-17T07:51:12-04:00",
-      "posted_days_ago": 26,
-      "raw_url": "https://job-boards.greenhouse.io/wolt/jobs/7984486",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=wolt&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fwolt%2Fjobs%2F7984486"
-    },
-    {
-      "company": "Wolt",
-      "title": "Ads Operations Intern",
-      "type": "Praktikum",
-      "city": "Berlin",
-      "location": "Berlin, Germany",
-      "posted": "2026-06-17T07:57:11-04:00",
-      "posted_days_ago": 26,
-      "raw_url": "https://job-boards.greenhouse.io/wolt/jobs/7984491",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=wolt&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fwolt%2Fjobs%2F7984491"
+      "location": "Berlin",
+      "posted": "2026-07-10T13:26:09.036+00:00",
+      "posted_days_ago": 3,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/eb675d61-c46c-4027-9c44-232aa3e8d800",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Feb675d61-c46c-4027-9c44-232aa3e8d800"
     },
     {
       "company": "HelloFresh",
@@ -158,17 +114,6 @@
       "posted_days_ago": 3,
       "raw_url": "https://careers.hellofresh.com/global/en/job/8035217?gh_jid=8035217",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=hellofresh&url=https%3A%2F%2Fcareers.hellofresh.com%2Fglobal%2Fen%2Fjob%2F8035217%3Fgh_jid%3D8035217"
-    },
-    {
-      "company": "N26",
-      "title": "Working Student - OCC Team",
-      "type": "Werkstudent",
-      "city": "Berlin",
-      "location": "Berlin",
-      "posted": "2026-07-06T08:39:16-04:00",
-      "posted_days_ago": 7,
-      "raw_url": "https://n26.com/en-eu/careers/positions/8025772?gh_jid=8025772",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=n26&url=https%3A%2F%2Fn26.com%2Fen-eu%2Fcareers%2Fpositions%2F8025772%3Fgh_jid%3D8025772"
     },
     {
       "company": "Raisin",
@@ -204,39 +149,6 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=raisin&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fraisin%2Fjobs%2F4784815101"
     },
     {
-      "company": "Solaris",
-      "title": "KYC Operations Working Student (f/m/d)",
-      "type": "Werkstudent",
-      "city": "Berlin",
-      "location": "Berlin",
-      "posted": "2026-07-03T04:38:41-04:00",
-      "posted_days_ago": 10,
-      "raw_url": "https://job-boards.greenhouse.io/solarisbank/jobs/8514915002",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=solaris&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fsolarisbank%2Fjobs%2F8514915002"
-    },
-    {
-      "company": "Solaris",
-      "title": "Lending & Deposits Working Student",
-      "type": "Werkstudent",
-      "city": "Berlin",
-      "location": "Berlin",
-      "posted": "2026-07-02T14:47:10-04:00",
-      "posted_days_ago": 11,
-      "raw_url": "https://job-boards.greenhouse.io/solarisbank/jobs/8591970002",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=solaris&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fsolarisbank%2Fjobs%2F8591970002"
-    },
-    {
-      "company": "Solaris",
-      "title": "Internal Audit Working Student",
-      "type": "Werkstudent",
-      "city": "Berlin",
-      "location": "Frankfurt; Berlin",
-      "posted": "2026-07-01T07:51:04-04:00",
-      "posted_days_ago": 12,
-      "raw_url": "https://job-boards.greenhouse.io/solarisbank/jobs/8614742002",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=solaris&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fsolarisbank%2Fjobs%2F8614742002"
-    },
-    {
       "company": "Agicap",
       "title": "Junior Sales Development Representative DACH (m/f/d)",
       "type": "Junior",
@@ -254,7 +166,7 @@
       "city": "Düsseldorf",
       "location": "Düsseldorf",
       "posted": "2026-04-24",
-      "posted_days_ago": 80,
+      "posted_days_ago": 81,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002977717-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=one-hiring-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1002977717-S"
     },
@@ -265,7 +177,7 @@
       "city": "Düsseldorf",
       "location": "Düsseldorf",
       "posted": "2026-05-20",
-      "posted_days_ago": 54,
+      "posted_days_ago": 55,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16085-0064815231-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=vdi-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F16085-0064815231-S"
     },
@@ -276,7 +188,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main",
       "posted": "2026-05-06",
-      "posted_days_ago": 68,
+      "posted_days_ago": 69,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20475-944010580-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=landwirtschaftliche-rentenbank&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20475-944010580-S"
     },
@@ -287,7 +199,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main",
       "posted": "2026-07-12",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-KAHRQC-UOK-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=motel-one-frankfurt-messe&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-KAHRQC-UOK-S"
     },
@@ -298,7 +210,7 @@
       "city": "Frankfurt",
       "location": "Frankfurt am Main",
       "posted": "2026-07-08",
-      "posted_days_ago": 5,
+      "posted_days_ago": 6,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308681-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=tata-consultancy-services-deutschland-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308681-S"
     },
@@ -325,13 +237,35 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=bitmovin&url=https%3A%2F%2Fbitmovin.com%2Fcareers%2F8559479002%3Fgh_jid%3D8559479002"
     },
     {
+      "company": "VACE Engineering GmbH",
+      "title": "Junior Project Engineer (m/f/d)",
+      "type": "Junior",
+      "city": "Graz",
+      "location": "Graz, Steiermark",
+      "posted": "2026-06-09T09:38:21Z",
+      "posted_days_ago": 34,
+      "raw_url": "https://www.adzuna.at/land/ad/5756979110?se=_vTrscB-8RGgX8pGgfOrZg&utm_medium=api&utm_source=8efdd1b9&v=ED7E98D7FDB1AE2BECB402DD0994AC5F8953D048",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=vace-engineering-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5756979110%3Fse%3D_vTrscB-8RGgX8pGgfOrZg%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DED7E98D7FDB1AE2BECB402DD0994AC5F8953D048"
+    },
+    {
+      "company": "Infineon Technologies Austria AG",
+      "title": "Internship - Quality Management (f/m/div)",
+      "type": "Praktikum",
+      "city": "Graz",
+      "location": "Graz, Steiermark",
+      "posted": "2026-07-11T08:49:52Z",
+      "posted_days_ago": 2,
+      "raw_url": "https://www.adzuna.at/land/ad/5796614514?se=BNHXscB-8RGs7dgs9IoaeQ&utm_medium=api&utm_source=8efdd1b9&v=CDC60012815DBC84D2A6F940DECF748654F8AEDD",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=infineon-technologies-austria-ag&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5796614514%3Fse%3DBNHXscB-8RGs7dgs9IoaeQ%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DCDC60012815DBC84D2A6F940DECF748654F8AEDD"
+    },
+    {
       "company": "Motel One Hamburg - Fleetinsel",
       "title": "Management Trainee Hospitality (m/f/d) Hamburg",
       "type": "Junior",
       "city": "Hamburg",
       "location": "Hamburg",
       "posted": "2026-07-12",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CJ4X05-6N1-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=motel-one-hamburg-fleetinsel&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-CJ4X05-6N1-S"
     },
@@ -342,7 +276,7 @@
       "city": "Leipzig",
       "location": "Leipzig",
       "posted": "2026-07-12",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-GQLKPW-ISZ-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=motel-one-leipzig-post&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-GQLKPW-ISZ-S"
     },
@@ -358,13 +292,24 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=flix&url=https%3A%2F%2Fflix.careers%2Fjob%2F8620664002%3Fgh_jid%3D8620664002"
     },
     {
+      "company": "Tacto",
+      "title": "Junior Product Designer",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "Munich",
+      "posted": "2026-04-27T20:51:14.460+00:00",
+      "posted_days_ago": 77,
+      "raw_url": "https://jobs.ashbyhq.com/tacto/c52d6138-bf87-4a20-8998-9976630aba92",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=tacto&url=https%3A%2F%2Fjobs.ashbyhq.com%2Ftacto%2Fc52d6138-bf87-4a20-8998-9976630aba92"
+    },
+    {
       "company": "Tata Consultancy Services Deutschland GmbH",
       "title": "Trainee - Smart Manufacturing & Engineering (all genders)",
       "type": "Junior",
       "city": "Munich",
       "location": "München",
       "posted": "2026-07-08",
-      "posted_days_ago": 5,
+      "posted_days_ago": 6,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-308680-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=tata-consultancy-services-deutschland-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-308680-S"
     },
@@ -389,6 +334,28 @@
       "posted_days_ago": 32,
       "raw_url": "https://jobs.lever.co/finn/03a87954-a114-4c45-abc6-49ff066183c5",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finn&url=https%3A%2F%2Fjobs.lever.co%2Ffinn%2F03a87954-a114-4c45-abc6-49ff066183c5"
+    },
+    {
+      "company": "Marvel Fusion",
+      "title": "Electrical/Mechatronics Engineer Intern",
+      "type": "Praktikum",
+      "city": "Munich",
+      "location": "Munich",
+      "posted": "2026-07-03T09:55:25-04:00",
+      "posted_days_ago": 10,
+      "raw_url": "https://job-boards.eu.greenhouse.io/marvelfusion/jobs/4593959101",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=marvel-fusion&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fmarvelfusion%2Fjobs%2F4593959101"
+    },
+    {
+      "company": "Tacto",
+      "title": "(Intern) Data Automation",
+      "type": "Praktikum",
+      "city": "Munich",
+      "location": "Munich",
+      "posted": "2026-06-12T14:03:03.798+00:00",
+      "posted_days_ago": 31,
+      "raw_url": "https://jobs.ashbyhq.com/tacto/6b175aec-f934-4e19-9c0a-3bbc6c3b4825",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=tacto&url=https%3A%2F%2Fjobs.ashbyhq.com%2Ftacto%2F6b175aec-f934-4e19-9c0a-3bbc6c3b4825"
     },
     {
       "company": "Celonis",
@@ -452,7 +419,7 @@
       "city": "Other DACH",
       "location": "Hannover",
       "posted": "2026-07-12",
-      "posted_days_ago": 1,
+      "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-1COYMQ-TP5-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=motel-one-hannover-oper&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-1COYMQ-TP5-S"
     },
@@ -463,7 +430,7 @@
       "city": "Other DACH",
       "location": "Dortmund",
       "posted": "2026-06-06",
-      "posted_days_ago": 37,
+      "posted_days_ago": 38,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19041-44225500-65-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=vdm-metals-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F19041-44225500-65-S"
     },
@@ -529,42 +496,20 @@
       "city": "Stuttgart",
       "location": "Stuttgart",
       "posted": "2026-07-02",
-      "posted_days_ago": 11,
+      "posted_days_ago": 12,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003320645-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=jac-recruitment-germany-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003320645-S"
     },
     {
-      "company": "Biogen",
-      "title": "Trainee Care Network Manager (f/m/d)",
+      "company": "KPMG Österreich",
+      "title": "Junior Consultant Data Transformation",
       "type": "Junior",
       "city": "Vienna",
       "location": "Wien, Österreich",
-      "posted": "2026-06-22T00:42:14Z",
-      "posted_days_ago": 21,
-      "raw_url": "https://www.adzuna.at/details/5772059229?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=biogen&url=https%3A%2F%2Fwww.adzuna.at%2Fdetails%2F5772059229%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
-    },
-    {
-      "company": "Klickkonzept by Cosmo5",
-      "title": "Online Marketing Trainee (m | f | d) Paid Media - Wien",
-      "type": "Junior",
-      "city": "Vienna",
-      "location": "Innere Stadt, Wien",
-      "posted": "2026-06-24T12:56:22Z",
-      "posted_days_ago": 19,
-      "raw_url": "https://www.adzuna.at/details/5774712453?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=klickkonzept-by-cosmo5&url=https%3A%2F%2Fwww.adzuna.at%2Fdetails%2F5774712453%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
-    },
-    {
-      "company": "Swiss Life Select Österreich GmbH",
-      "title": "Financial Trainee",
-      "type": "Junior",
-      "city": "Vienna",
-      "location": "Margareten, Wien",
-      "posted": "2026-06-22T22:28:17Z",
-      "posted_days_ago": 20,
-      "raw_url": "https://www.adzuna.at/details/5772788670?utm_medium=api&utm_source=8efdd1b9",
-      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=swiss-life-select-sterreich-gmbh&url=https%3A%2F%2Fwww.adzuna.at%2Fdetails%2F5772788670%3Futm_medium%3Dapi%26utm_source%3D8efdd1b9"
+      "posted": "2026-06-17T10:14:01Z",
+      "posted_days_ago": 26,
+      "raw_url": "https://www.adzuna.at/land/ad/5766534828?se=BEfpscB-8RGfuPZ_H4hNCg&utm_medium=api&utm_source=8efdd1b9&v=9FFA2A3FF68EAD095BFD3AECBF62098C4A71585C",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=kpmg-sterreich&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5766534828%3Fse%3DBEfpscB-8RGfuPZ_H4hNCg%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3D9FFA2A3FF68EAD095BFD3AECBF62098C4A71585C"
     },
     {
       "company": "Bitmovin",
@@ -620,6 +565,17 @@
       "posted_days_ago": 17,
       "raw_url": "https://www.scandit.com/careers/job-description/?gh_jid=7434825",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=scandit&url=https%3A%2F%2Fwww.scandit.com%2Fcareers%2Fjob-description%2F%3Fgh_jid%3D7434825"
+    },
+    {
+      "company": "DeepJudge",
+      "title": "Working Student Quality Assurance (40-60%)",
+      "type": "Werkstudent",
+      "city": "Zurich",
+      "location": "Zurich HQ",
+      "posted": "2026-06-10T16:05:54.151+00:00",
+      "posted_days_ago": 33,
+      "raw_url": "https://jobs.ashbyhq.com/deepjudge/d044d6e2-992b-477b-82a3-4f01f1ba1a8a",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=deepjudge&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fdeepjudge%2Fd044d6e2-992b-477b-82a3-4f01f1ba1a8a"
     }
   ]
 }
