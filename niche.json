@@ -1,6 +1,7 @@
 {
   "id": "english-jobs-germany",
   "englishOnly": true,
+  "allowGenderMarker": true,
   "title": "English-Speaking Jobs in Germany & DACH",
   "tagline_de": "Englischsprachige Jobs bei Unternehmen in Deutschland, Österreich und der Schweiz — kein Deutsch erforderlich. **Täglich automatisch aktualisiert.**",
   "tagline_en": "A daily-updated list of English-language jobs at companies across Germany, Austria and Switzerland — no German required. Built for internationals and expats moving to the DACH region.",

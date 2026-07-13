@@ -1,10 +1,43 @@
 {
-  "generated_at": "2026-07-13T13:43:06.240Z",
-  "count": 52,
+  "generated_at": "2026-07-13T13:57:01.678Z",
+  "count": 189,
   "niche": "english-jobs-germany",
   "source": "filtered view of heynish/werkstudent-praktikum-jobs (public ATS APIs + Arbeitsagentur + Adzuna)",
   "upstream_generated_at": "2026-07-13T13:42:32.055Z",
   "roles": [
+    {
+      "company": "GOLDBECK GmbH",
+      "title": "Trainee (m/w/d) - International Top Graduate Program",
+      "type": "Absolvent",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-05-27",
+      "posted_days_ago": 48,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206621147-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=goldbeck-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10000-1206621147-S"
+    },
+    {
+      "company": "NG Engineering Consulting GmbH",
+      "title": "Junior AI Integration Engineer - Berufseinsteiger KI   (m/w/d) 26012-ICNB01",
+      "type": "Absolvent",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-05-27",
+      "posted_days_ago": 48,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003132592-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ng-engineering-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003132592-S"
+    },
+    {
+      "company": "avodaq",
+      "title": "Trainee IT System Engineer (m/w/d) Security / Data Center / Collaboration",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-03",
+      "posted_days_ago": 11,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-304837-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=avodaq&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-304837-S"
+    },
     {
       "company": "Doctolib",
       "title": "Junior Customer Experience Consultant (x/f/m)",
@@ -26,6 +59,160 @@
       "posted_days_ago": 20,
       "raw_url": "https://job-boards.greenhouse.io/doctolib/jobs/7648739003",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=doctolib&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fdoctolib%2Fjobs%2F7648739003"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Learning & Development Manager Sales (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-08T08:12:22.660+00:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/0a4b1046-4721-4dd3-8378-b8b4787ede59",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F0a4b1046-4721-4dd3-8378-b8b4787ede59"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Sales Enablement Manager (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-08T08:12:07.559+00:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/3b25bcc4-0ead-4aa1-a489-b4aea705f683",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F3b25bcc4-0ead-4aa1-a489-b4aea705f683"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Sales Coach (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-08T08:13:14.669+00:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/52053d77-7cf7-4ede-a06c-3538b5cdf58a",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F52053d77-7cf7-4ede-a06c-3538b5cdf58a"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Sales Trainer (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-08T08:12:37.576+00:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/b537571f-5000-4f99-97cf-096a748a11f4",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fb537571f-5000-4f99-97cf-096a748a11f4"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Sales Coach & Trainer (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-08T08:12:51.659+00:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/d48bf33e-a451-481b-bb02-067fa1dcc01c",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fd48bf33e-a451-481b-bb02-067fa1dcc01c"
+    },
+    {
+      "company": "Enpal",
+      "title": "(Junior) People Operations Partner:in (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "DE Berlin - Enpal Campus",
+      "posted": "2026-07-02T06:41:07.211+00:00",
+      "posted_days_ago": 11,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/4a79b689-39a7-4696-ae55-91c21bc1ca21",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F4a79b689-39a7-4696-ae55-91c21bc1ca21"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Account Executive - Fintech (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-06-24T10:10:29.041+00:00",
+      "posted_days_ago": 19,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/0a4b57a3-e041-479f-ba6b-0bea399e39e1",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F0a4b57a3-e041-479f-ba6b-0bea399e39e1"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Customer Success Manager (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-06-24T10:10:40.295+00:00",
+      "posted_days_ago": 19,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/5058c297-05cd-492b-8622-959e883e04c9",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F5058c297-05cd-492b-8622-959e883e04c9"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Sales Manager - B2B (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-06-24T10:10:35.338+00:00",
+      "posted_days_ago": 19,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/b4e4c818-a93e-4839-87d8-62cd8e0779b1",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fb4e4c818-a93e-4839-87d8-62cd8e0779b1"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Account Manager (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-06-24T10:10:31.711+00:00",
+      "posted_days_ago": 19,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/d418c2dd-e6c5-41b6-b195-d2a26f96dbff",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fd418c2dd-e6c5-41b6-b195-d2a26f96dbff"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Partner Success Manager (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-06-24T10:10:25.203+00:00",
+      "posted_days_ago": 19,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/f8f53077-84f7-434b-80fa-e6dab63d612f",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Ff8f53077-84f7-434b-80fa-e6dab63d612f"
+    },
+    {
+      "company": "Enpal",
+      "title": "Junior Sales Performance Coach (w/m/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-06-22T13:09:31.929+00:00",
+      "posted_days_ago": 21,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/2d0d7a21-8daf-4b77-ae5e-5a362c9df9fb",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F2d0d7a21-8daf-4b77-ae5e-5a362c9df9fb"
+    },
+    {
+      "company": "FinanzCheck",
+      "title": "(Junior) Projekt- & Prozessmanager (w/m/d) - Sales Operations",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin; Hamburg",
+      "posted": "2026-06-19T08:30:55-04:00",
+      "posted_days_ago": 24,
+      "raw_url": "https://www.finanzcheck.de/jobs/?gh_jid=7774486003",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finanzcheck&url=https%3A%2F%2Fwww.finanzcheck.de%2Fjobs%2F%3Fgh_jid%3D7774486003"
+    },
+    {
+      "company": "Firstlead GmbH",
+      "title": "Trainee Sales Manager (m/w/d)",
+      "type": "Junior",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-06-30",
+      "posted_days_ago": 14,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003310240-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=firstlead-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003310240-S"
     },
     {
       "company": "Flix",
@@ -95,6 +282,50 @@
     },
     {
       "company": "Enpal",
+      "title": "Chief of Staff Internship (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-10T09:53:13.167+00:00",
+      "posted_days_ago": 3,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/2a90d761-73c8-4b7f-8f44-7c39eccd0cc6",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F2a90d761-73c8-4b7f-8f44-7c39eccd0cc6"
+    },
+    {
+      "company": "Enpal",
+      "title": "CEO Office Internship (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-10T09:53:06.778+00:00",
+      "posted_days_ago": 3,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/56d30c7c-66cd-472c-be13-192e7adff52b",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F56d30c7c-66cd-472c-be13-192e7adff52b"
+    },
+    {
+      "company": "Enpal",
+      "title": "Supply Chain & Operations Internship (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-10T11:43:08.779+00:00",
+      "posted_days_ago": 3,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/6a090f79-10be-4608-978b-c1930c1e2db0",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F6a090f79-10be-4608-978b-c1930c1e2db0"
+    },
+    {
+      "company": "Enpal",
+      "title": "Intern Strategic Projects & Business Operations (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-10T16:35:49.260+00:00",
+      "posted_days_ago": 3,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/e7d9a177-94a9-41c3-8cf9-384759d54a80",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fe7d9a177-94a9-41c3-8cf9-384759d54a80"
+    },
+    {
+      "company": "Enpal",
       "title": "Business Analytics Internship (f/m/x)",
       "type": "Praktikum",
       "city": "Berlin",
@@ -103,6 +334,193 @@
       "posted_days_ago": 3,
       "raw_url": "https://jobs.ashbyhq.com/enpal/eb675d61-c46c-4027-9c44-232aa3e8d800",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Feb675d61-c46c-4027-9c44-232aa3e8d800"
+    },
+    {
+      "company": "Enpal",
+      "title": "Finance & Business Analytics Internship (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-10T11:50:45.614+00:00",
+      "posted_days_ago": 3,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/f807f9af-4580-4d98-b224-1819fbe65fe6",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Ff807f9af-4580-4d98-b224-1819fbe65fe6"
+    },
+    {
+      "company": "Enpal",
+      "title": "Cyber Security Strategy Internship (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-09T15:02:04.775+00:00",
+      "posted_days_ago": 4,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/01853ce8-848e-445c-8629-355b3f47c2df",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F01853ce8-848e-445c-8629-355b3f47c2df"
+    },
+    {
+      "company": "Enpal",
+      "title": "Business Analytics & Growth Internship (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-09T14:11:04.035+00:00",
+      "posted_days_ago": 4,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/080f78d3-d9f8-4a36-aca5-35488b3c09d0",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F080f78d3-d9f8-4a36-aca5-35488b3c09d0"
+    },
+    {
+      "company": "Enpal",
+      "title": "Business Operations Internship (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-09T14:19:10.035+00:00",
+      "posted_days_ago": 4,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/b75bf6b5-f1af-4a3c-9ead-33e9ab819b85",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fb75bf6b5-f1af-4a3c-9ead-33e9ab819b85"
+    },
+    {
+      "company": "Enpal",
+      "title": "Intern Revenue Operations (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-09T06:50:53.692+00:00",
+      "posted_days_ago": 4,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/ef65cd65-9647-491a-b136-55406468a65b",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fef65cd65-9647-491a-b136-55406468a65b"
+    },
+    {
+      "company": "Enpal",
+      "title": "Intern Performance Marketing (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-08T14:41:16.483+00:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/08cd9637-66a9-4da6-a47d-4d514756dbb6",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F08cd9637-66a9-4da6-a47d-4d514756dbb6"
+    },
+    {
+      "company": "Enpal",
+      "title": "Intern Marketing Analytics (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-08T14:41:49.049+00:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/758c9938-111e-46fe-91cb-550c9bc9bdb6",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F758c9938-111e-46fe-91cb-550c9bc9bdb6"
+    },
+    {
+      "company": "Enpal",
+      "title": "Intern Growth Development in AI Performance Marketing (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-08T14:40:48.566+00:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/9b966b2b-5193-4629-870d-bf413d89930b",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F9b966b2b-5193-4629-870d-bf413d89930b"
+    },
+    {
+      "company": "Enpal",
+      "title": "Intern (w/m/d) Training & Education",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-08T08:01:24.328+00:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/b896b6b0-bf6a-4982-99f6-06341f5edf4a",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fb896b6b0-bf6a-4982-99f6-06341f5edf4a"
+    },
+    {
+      "company": "Enpal",
+      "title": "Intern Growth Marketing Analyst (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-08T14:42:27.332+00:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/d16ba228-f71b-4643-a2b2-be0077aef094",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fd16ba228-f71b-4643-a2b2-be0077aef094"
+    },
+    {
+      "company": "Enpal",
+      "title": "Founders Associate Intern – Sales & Operations (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-07T08:16:09.239+00:00",
+      "posted_days_ago": 6,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/42d4654d-6378-4dfd-bf9b-ca2aff9cd56b",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F42d4654d-6378-4dfd-bf9b-ca2aff9cd56b"
+    },
+    {
+      "company": "Enpal",
+      "title": "Business Development Intern - Fintech (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-07T08:16:52.525+00:00",
+      "posted_days_ago": 6,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/81c7702a-64d9-46af-b78c-846cbed53f26",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F81c7702a-64d9-46af-b78c-846cbed53f26"
+    },
+    {
+      "company": "Enpal",
+      "title": "Intern Venture Development (w/m/d) Logistics",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-07T09:52:32.484+00:00",
+      "posted_days_ago": 6,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/dbf610d3-7c8f-4eb7-9260-75b9565a6b23",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fdbf610d3-7c8f-4eb7-9260-75b9565a6b23"
+    },
+    {
+      "company": "Enpal",
+      "title": "Sales & Operations Intern - Fintech (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-07T08:16:35.147+00:00",
+      "posted_days_ago": 6,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/e908f96c-3de7-45eb-af1b-26809f65ae5a",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2Fe908f96c-3de7-45eb-af1b-26809f65ae5a"
+    },
+    {
+      "company": "Wolt",
+      "title": "Intern - Compliance (w/m/d)",
+      "type": "Praktikum",
+      "city": "Berlin",
+      "location": "Berlin, Germany",
+      "posted": "2026-07-08T05:36:18-04:00",
+      "posted_days_ago": 5,
+      "raw_url": "https://job-boards.greenhouse.io/wolt/jobs/7984530",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=wolt&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fwolt%2Fjobs%2F7984530"
+    },
+    {
+      "company": "Enpal",
+      "title": "Marketing Campaigns Working Student (w/m/d)",
+      "type": "Werkstudent",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-10T13:31:02.048+00:00",
+      "posted_days_ago": 3,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/499b6440-07a4-437d-a396-f44863cdeb69",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F499b6440-07a4-437d-a396-f44863cdeb69"
+    },
+    {
+      "company": "Enpal",
+      "title": "Business Automation Working Student  (w/m/d)",
+      "type": "Werkstudent",
+      "city": "Berlin",
+      "location": "Berlin",
+      "posted": "2026-07-06T13:22:49.148+00:00",
+      "posted_days_ago": 7,
+      "raw_url": "https://jobs.ashbyhq.com/enpal/64fffe77-e155-433f-b8af-280e82b5e93d",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=enpal&url=https%3A%2F%2Fjobs.ashbyhq.com%2Fenpal%2F64fffe77-e155-433f-b8af-280e82b5e93d"
     },
     {
       "company": "HelloFresh",
@@ -149,6 +567,171 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=raisin&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fraisin%2Fjobs%2F4784815101"
     },
     {
+      "company": "GOLDBECK GmbH",
+      "title": "Trainee (m/w/d) - International Top Graduate Program",
+      "type": "Absolvent",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-05-27",
+      "posted_days_ago": 48,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206621147-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=goldbeck-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10000-1206621147-S"
+    },
+    {
+      "company": "ZOLL CMS GmbH",
+      "title": "Backoffice | Support Specialist (m/w/d)  Auch Berufseinsteiger:innen sind herzlich Willkommen.",
+      "type": "Absolvent",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-04-23",
+      "posted_days_ago": 82,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002970775-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=zoll-cms-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1002970775-S"
+    },
+    {
+      "company": "Amoria Bond GmbH",
+      "title": "360 Trainee Sales & Recruitment Consultant (m/w/d)",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-07-09",
+      "posted_days_ago": 5,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12814-11053263-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=amoria-bond-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12814-11053263-S"
+    },
+    {
+      "company": "AXA Konzern AG",
+      "title": "Finance Trainee - Controlling (m/w/d)",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-07-10",
+      "posted_days_ago": 4,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18306-BB-635072-7878-7132-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=axa-konzern-ag&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F18306-BB-635072-7878-7132-S"
+    },
+    {
+      "company": "Basalt-Actien-Gesellschaft",
+      "title": "Trainee Management & Leadership (m/w/d)",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-05-17",
+      "posted_days_ago": 58,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-263205-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=basalt-actien-gesellschaft&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13645-263205-S"
+    },
+    {
+      "company": "CHECK24 Services Personal GmbH",
+      "title": "Technischer Produkt Manager (m/w/d) Traineeprogramm",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-06-01",
+      "posted_days_ago": 43,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-6edd7278212b4d5b85d-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=check24-services-personal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20208-6edd7278212b4d5b85d-S"
+    },
+    {
+      "company": "CHECK24 Services Personal GmbH",
+      "title": "Associate Product Owner (m/w/d) Traineeprogramm",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-06-01",
+      "posted_days_ago": 43,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-b60cef04b2034785903-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=check24-services-personal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20208-b60cef04b2034785903-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "SAPXcellence Fast Track Trainee Program (w/m/d)",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-05-15",
+      "posted_days_ago": 60,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1428931-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1428931-2-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "Consultant Risk Management - Fast Track Trainee Program (w/m/d)",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-03-10",
+      "posted_days_ago": 126,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1465507-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1465507-2-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "SAP Fast Track Trainee Program: Accounting, Controlling and Business Analytics (w/m/d)",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-02-26",
+      "posted_days_ago": 138,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1446403-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1446403-2-S"
+    },
+    {
+      "company": "FERCHAU GmbH Niederlassung Köln",
+      "title": "Sales Trainee Rheinland (m/w/d)",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-07-06",
+      "posted_days_ago": 8,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-491077_JB5189933-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ferchau-gmbh-niederlassung-k-ln&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12265-491077_JB5189933-S"
+    },
+    {
+      "company": "Pfeifer & Langen GmbH & Co. KG",
+      "title": "Trainee Agrarwissenschaften (m/w/d)",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-04-21",
+      "posted_days_ago": 84,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bce102e6-5abf-4c09--S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=pfeifer-langen-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12951-bce102e6-5abf-4c09--S"
+    },
+    {
+      "company": "REWE Group",
+      "title": "Initiativbewerbung Trainee Einkauf (m/w/d)",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2025-09-10",
+      "posted_days_ago": 307,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12608-1328254-28033-1-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=rewe-group&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12608-1328254-28033-1-S"
+    },
+    {
+      "company": "Smyths Toys Deutschland SE & Co. KG",
+      "title": "Trainee Buyer / Category Management m/w/d",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2026-05-22",
+      "posted_days_ago": 53,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16538-53QJ3P7FQllxbo-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=smyths-toys-deutschland-se-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F16538-53QJ3P7FQllxbo-S"
+    },
+    {
+      "company": "Werhahn & Nauen SE & Co. OHG vertreten durch Basalt-Actien-Gesellschaft",
+      "title": "Trainee Management & Leadership (m/w/d)",
+      "type": "Junior",
+      "city": "Cologne",
+      "location": "Köln",
+      "posted": "2025-03-06",
+      "posted_days_ago": 495,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14260-00045302f67001-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=werhahn-nauen-se-co-ohg-vertreten-durch-basalt-actien-gesellschaft&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F14260-00045302f67001-S"
+    },
+    {
       "company": "Agicap",
       "title": "Junior Sales Development Representative DACH (m/f/d)",
       "type": "Junior",
@@ -158,6 +741,116 @@
       "posted_days_ago": 35,
       "raw_url": "https://jobs.lever.co/agicap/07dc2f0a-2fdf-4f6b-8f3a-7509efb68b35",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=agicap&url=https%3A%2F%2Fjobs.lever.co%2Fagicap%2F07dc2f0a-2fdf-4f6b-8f3a-7509efb68b35"
+    },
+    {
+      "company": "CHECK24 Services Personal GmbH",
+      "title": "Technischer Produkt Manager (m/w/d) Traineeprogramm",
+      "type": "Junior",
+      "city": "Düsseldorf",
+      "location": "Düsseldorf",
+      "posted": "2026-06-01",
+      "posted_days_ago": 43,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-0fe1a408199544da90a-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=check24-services-personal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20208-0fe1a408199544da90a-S"
+    },
+    {
+      "company": "CHECK24 Services Personal GmbH",
+      "title": "Associate Product Owner (m/w/d) Traineeprogramm",
+      "type": "Junior",
+      "city": "Düsseldorf",
+      "location": "Düsseldorf",
+      "posted": "2026-06-01",
+      "posted_days_ago": 43,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-124497d6f69d465a877-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=check24-services-personal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20208-124497d6f69d465a877-S"
+    },
+    {
+      "company": "Computacenter AG & Co. oHG",
+      "title": "Trainee Account Management w/m/d",
+      "type": "Junior",
+      "city": "Düsseldorf",
+      "location": "Düsseldorf",
+      "posted": "2026-05-14",
+      "posted_days_ago": 61,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003075673-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003075673-S"
+    },
+    {
+      "company": "Exclusive Associates",
+      "title": "Recruiter Trainee (m/w/d)",
+      "type": "Junior",
+      "city": "Düsseldorf",
+      "location": "Düsseldorf",
+      "posted": "2026-07-03",
+      "posted_days_ago": 11,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4873233473-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=exclusive-associates&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12288-4873233473-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "SAPXcellence Fast Track Trainee Program (w/m/d)",
+      "type": "Junior",
+      "city": "Düsseldorf",
+      "location": "Düsseldorf",
+      "posted": "2026-05-15",
+      "posted_days_ago": 60,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1428931-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1428931-2-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "Consultant Risk Management - Fast Track Trainee Program (w/m/d)",
+      "type": "Junior",
+      "city": "Düsseldorf",
+      "location": "Düsseldorf",
+      "posted": "2026-03-10",
+      "posted_days_ago": 126,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1465507-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1465507-2-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "SAP Fast Track Trainee Program: Accounting, Controlling and Business Analytics (w/m/d)",
+      "type": "Junior",
+      "city": "Düsseldorf",
+      "location": "Düsseldorf",
+      "posted": "2026-02-26",
+      "posted_days_ago": 138,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1446403-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1446403-2-S"
+    },
+    {
+      "company": "FALKE KGaA",
+      "title": "Trainee Marketing (m/w/d)",
+      "type": "Junior",
+      "city": "Düsseldorf",
+      "location": "Düsseldorf",
+      "posted": "2026-07-01",
+      "posted_days_ago": 13,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003316276-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=falke-kgaa&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003316276-S"
+    },
+    {
+      "company": "FALKE KGaA",
+      "title": "Trainee Digital Commerce (m/w/d)",
+      "type": "Junior",
+      "city": "Düsseldorf",
+      "location": "Düsseldorf",
+      "posted": "2026-07-01",
+      "posted_days_ago": 13,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003316270-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=falke-kgaa&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003316270-S"
+    },
+    {
+      "company": "Michael Page GmbH",
+      "title": "Management Trainee (m/w/d) - Sales & Marketing",
+      "type": "Junior",
+      "city": "Düsseldorf",
+      "location": "Düsseldorf",
+      "posted": "2026-06-19",
+      "posted_days_ago": 25,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13643-614367LS-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=michael-page-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13643-614367LS-S"
     },
     {
       "company": "ONE HIRING GmbH",
@@ -182,6 +875,105 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=vdi-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F16085-0064815231-S"
     },
     {
+      "company": "GOLDBECK GmbH",
+      "title": "Trainee (m/w/d) - International Top Graduate Program",
+      "type": "Absolvent",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-05-27",
+      "posted_days_ago": 48,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206621147-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=goldbeck-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10000-1206621147-S"
+    },
+    {
+      "company": "ABS Team",
+      "title": "Trainee/Junior Consultant SAP SuccessFactors HCM (m/w/d)",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-07-03",
+      "posted_days_ago": 11,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-305965-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=abs-team&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-305965-S"
+    },
+    {
+      "company": "Agaplesion Management und Beratungsgesellschaft mbH",
+      "title": "Management Trainee (w/m/d)",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-05-26",
+      "posted_days_ago": 49,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14893-0064901391-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=agaplesion-management-und-beratungsgesellschaft-mbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F14893-0064901391-S"
+    },
+    {
+      "company": "Computacenter AG & Co. oHG",
+      "title": "Trainee IT Service Management w/m/d",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-05-27",
+      "posted_days_ago": 48,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003135106-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003135106-S"
+    },
+    {
+      "company": "Computacenter AG & Co. oHG",
+      "title": "Trainee Account Management w/m/d",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-05-14",
+      "posted_days_ago": 61,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003075673-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003075673-S"
+    },
+    {
+      "company": "Finanz Informatik",
+      "title": "Trainee IT (m/w/d)",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-07-03",
+      "posted_days_ago": 11,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-229107-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finanz-informatik&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-229107-S"
+    },
+    {
+      "company": "Finanz Informatik GmbH & Co. KG",
+      "title": "Trainee IT (m/w/d)",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-06-24",
+      "posted_days_ago": 20,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-203207-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finanz-informatik-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13884-203207-S"
+    },
+    {
+      "company": "Finanz Informatik GmbH & Co. KG",
+      "title": "Trainee Business/Banking (m/w/d)",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-06-24",
+      "posted_days_ago": 20,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-203206-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finanz-informatik-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13884-203206-S"
+    },
+    {
+      "company": "Findehotelpersonal GmbH",
+      "title": "F&B Management Trainee (m/w/d)",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-06-15",
+      "posted_days_ago": 29,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15284-k44754.60360-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=findehotelpersonal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15284-k44754.60360-S"
+    },
+    {
       "company": "Landwirtschaftliche Rentenbank",
       "title": "Trainee (d/w/w) Kreditrisikomanagement",
       "type": "Junior",
@@ -193,6 +985,39 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=landwirtschaftliche-rentenbank&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20475-944010580-S"
     },
     {
+      "company": "Landwirtschaftliche Rentenbank",
+      "title": "Trainee (d/m/w) Compliance",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-05-06",
+      "posted_days_ago": 69,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20475-944009993-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=landwirtschaftliche-rentenbank&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20475-944009993-S"
+    },
+    {
+      "company": "Landwirtschaftliche Rentenbank",
+      "title": "Trainee (d/m/w) Finanzen",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-05-06",
+      "posted_days_ago": 69,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20475-944008891-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=landwirtschaftliche-rentenbank&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20475-944008891-S"
+    },
+    {
+      "company": "Mesterheide Rockel Hirz Trowe AG Holding",
+      "title": "Management Trainee (m/w/d) | Strategy & Operations (COO & CFO Office), Frankfurt",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-05-08",
+      "posted_days_ago": 67,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2251017-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=mesterheide-rockel-hirz-trowe-ag-holding&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12811-2251017-S"
+    },
+    {
       "company": "Motel One Frankfurt - Messe",
       "title": "Management Trainee Hospitality (m/f/d) Frankfurt",
       "type": "Junior",
@@ -202,6 +1027,28 @@
       "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-KAHRQC-UOK-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=motel-one-frankfurt-messe&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-KAHRQC-UOK-S"
+    },
+    {
+      "company": "MRH Trowe",
+      "title": "Management Trainee (m/w/d) | Strategy & Operations (COO &",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-07-02",
+      "posted_days_ago": 12,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12814-12675030-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=mrh-trowe&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12814-12675030-S"
+    },
+    {
+      "company": "Scholz & Friends Health GmbH",
+      "title": "Trainee (m/w/d)",
+      "type": "Junior",
+      "city": "Frankfurt",
+      "location": "Frankfurt am Main",
+      "posted": "2026-05-26",
+      "posted_days_ago": 49,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-c98944f9a1a1a9d2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=scholz-friends-health-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F14225-c98944f9a1a1a9d2-S"
     },
     {
       "company": "Tata Consultancy Services Deutschland GmbH",
@@ -259,6 +1106,138 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=infineon-technologies-austria-ag&url=https%3A%2F%2Fwww.adzuna.at%2Fland%2Fad%2F5796614514%3Fse%3DBNHXscB-8RGs7dgs9IoaeQ%26utm_medium%3Dapi%26utm_source%3D8efdd1b9%26v%3DCDC60012815DBC84D2A6F940DECF748654F8AEDD"
     },
     {
+      "company": "GOLDBECK GmbH",
+      "title": "Trainee (m/w/d) - International Top Graduate Program",
+      "type": "Absolvent",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-05-27",
+      "posted_days_ago": 48,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206621147-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=goldbeck-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10000-1206621147-S"
+    },
+    {
+      "company": "NG Engineering Consulting GmbH",
+      "title": "Junior AI Integration Engineer - Berufseinsteiger KI   (m/w/d) 26012-ICNB01",
+      "type": "Absolvent",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-05-27",
+      "posted_days_ago": 48,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003132592-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ng-engineering-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003132592-S"
+    },
+    {
+      "company": "Academic Work Germany GmbH",
+      "title": "Trainee Data Engineer (m/w/d)",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-07-02",
+      "posted_days_ago": 12,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12953-AW_615979LS-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=academic-work-germany-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12953-AW_615979LS-S"
+    },
+    {
+      "company": "Actemium SAM Electronics GmbH",
+      "title": "Trainee (w/m/d) Maritime Projekte",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-07-10",
+      "posted_days_ago": 4,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16195-0065983688-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=actemium-sam-electronics-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F16195-0065983688-S"
+    },
+    {
+      "company": "avodaq",
+      "title": "Trainee IT System Engineer (m/w/d) Security / Data Center / Collaboration",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-07-03",
+      "posted_days_ago": 11,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-304837-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=avodaq&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-304837-S"
+    },
+    {
+      "company": "Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation",
+      "title": "Trainee Volljurist*in (m/w/d)",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-07-02",
+      "posted_days_ago": 12,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13035-124002593483ff8b-SO-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=berufsgenossenschaft-verkehrswirtschaft-post-logistik-telekommunikation&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13035-124002593483ff8b-SO-S"
+    },
+    {
+      "company": "Computacenter AG & Co. oHG",
+      "title": "Trainee IT Service Management w/m/d",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-05-27",
+      "posted_days_ago": 48,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003135106-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003135106-S"
+    },
+    {
+      "company": "Computacenter AG & Co. oHG",
+      "title": "Trainee IT Consulting - Security w/m/d",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-05-19",
+      "posted_days_ago": 56,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003096682-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003096682-S"
+    },
+    {
+      "company": "Computacenter AG & Co. oHG",
+      "title": "Trainee Account Management w/m/d",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-05-14",
+      "posted_days_ago": 61,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003075673-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=computacenter-ag-co-ohg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003075673-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "SAPXcellence Fast Track Trainee Program (w/m/d)",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-05-15",
+      "posted_days_ago": 60,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1428931-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1428931-2-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "Consultant Risk Management - Fast Track Trainee Program (w/m/d)",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-03-10",
+      "posted_days_ago": 126,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1465507-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1465507-2-S"
+    },
+    {
+      "company": "FERCHAU GmbH Niederlassung Hamburg-City",
+      "title": "Sales Trainee (m/w/d)",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-07-13",
+      "posted_days_ago": 1,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-499864_JB5195669-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ferchau-gmbh-niederlassung-hamburg-city&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12265-499864_JB5195669-S"
+    },
+    {
       "company": "Motel One Hamburg - Fleetinsel",
       "title": "Management Trainee Hospitality (m/f/d) Hamburg",
       "type": "Junior",
@@ -268,6 +1247,72 @@
       "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CJ4X05-6N1-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=motel-one-hamburg-fleetinsel&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-CJ4X05-6N1-S"
+    },
+    {
+      "company": "rocket match powered by notificAI GmbH",
+      "title": "Trainee Einrichtungsleitung (m/w/d) in Hamburg",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-06-29",
+      "posted_days_ago": 15,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15235-k43552.218444-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=rocket-match-powered-by-notificai-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15235-k43552.218444-S"
+    },
+    {
+      "company": "TimeCrew GmbH",
+      "title": "Niederlassungsassistent - Trainee (m/w/d) -Schwerpunkt Gastro",
+      "type": "Junior",
+      "city": "Hamburg",
+      "location": "Hamburg",
+      "posted": "2026-07-01",
+      "posted_days_ago": 13,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-221A3304-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=timecrew-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F14751-221A3304-S"
+    },
+    {
+      "company": "CHECK24 Services Personal GmbH",
+      "title": "Technischer Produkt Manager (m/w/d) Traineeprogramm",
+      "type": "Junior",
+      "city": "Leipzig",
+      "location": "Leipzig",
+      "posted": "2026-06-01",
+      "posted_days_ago": 43,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-a5f025e0ca0e43e59b6-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=check24-services-personal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20208-a5f025e0ca0e43e59b6-S"
+    },
+    {
+      "company": "CHECK24 Services Personal GmbH",
+      "title": "Associate Product Owner (m/w/d) Traineeprogramm",
+      "type": "Junior",
+      "city": "Leipzig",
+      "location": "Leipzig",
+      "posted": "2026-06-01",
+      "posted_days_ago": 43,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-22f45ac32bf44b56bfe-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=check24-services-personal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F20208-22f45ac32bf44b56bfe-S"
+    },
+    {
+      "company": "Detlev Louis",
+      "title": "Trainee Store Manager (m/w/d),Berlin,Berlin,Berlin,Cottbus,Dresden,Halle (Saale),Leipzig,Potsdam",
+      "type": "Junior",
+      "city": "Leipzig",
+      "location": "Leipzig",
+      "posted": "2025-07-28",
+      "posted_days_ago": 351,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-1876536-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=detlev-louis&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12811-1876536-S"
+    },
+    {
+      "company": "LWB Leipziger Wohnungs- und Baugesellschaft mbH",
+      "title": "Trainee Bauen (w/m/d)",
+      "type": "Junior",
+      "city": "Leipzig",
+      "location": "Leipzig",
+      "posted": "2026-05-28",
+      "posted_days_ago": 47,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206642955-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=lwb-leipziger-wohnungs-und-baugesellschaft-mbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10000-1206642955-S"
     },
     {
       "company": "Motel One Leipzig - Post",
@@ -281,6 +1326,127 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=motel-one-leipzig-post&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-GQLKPW-ISZ-S"
     },
     {
+      "company": "GOLDBECK GmbH",
+      "title": "Trainee (m/w/d) - International Top Graduate Program",
+      "type": "Absolvent",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-05-27",
+      "posted_days_ago": 48,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206621147-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=goldbeck-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10000-1206621147-S"
+    },
+    {
+      "company": "HypoVereinsbank - UniCredit Bank GmbH",
+      "title": "Trainee Pricing and Risk Model Infrastructure (m/w/d) - UniCredit Graduate Program",
+      "type": "Absolvent",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-07-13",
+      "posted_days_ago": 1,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11070-1574038-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=hypovereinsbank-unicredit-bank-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11070-1574038-2-S"
+    },
+    {
+      "company": "HypoVereinsbank - UniCredit Bank GmbH",
+      "title": "Trainee Non-Financial Risks (m/w/d) - UniCredit Graduate Program",
+      "type": "Absolvent",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-07-03",
+      "posted_days_ago": 11,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11070-1383660-4-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=hypovereinsbank-unicredit-bank-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11070-1383660-4-S"
+    },
+    {
+      "company": "HypoVereinsbank - UniCredit Bank GmbH",
+      "title": "Trainee Tax Solutions (m/w/d) - UniCredit Graduate Program",
+      "type": "Absolvent",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-05-11",
+      "posted_days_ago": 64,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11070-1572078-1-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=hypovereinsbank-unicredit-bank-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11070-1572078-1-S"
+    },
+    {
+      "company": "NG Engineering Consulting GmbH",
+      "title": "Junior AI Integration Engineer - Berufseinsteiger KI   (m/w/d) 26012-ICNB01",
+      "type": "Absolvent",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-05-27",
+      "posted_days_ago": 48,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003132592-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ng-engineering-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003132592-S"
+    },
+    {
+      "company": "avodaq",
+      "title": "Trainee IT System Engineer (m/w/d) Security / Data Center / Collaboration",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-07-03",
+      "posted_days_ago": 11,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-304837-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=avodaq&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-304837-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "SAPXcellence Fast Track Trainee Program (w/m/d)",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-05-15",
+      "posted_days_ago": 60,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1428931-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1428931-2-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "Consultant Risk Management - Fast Track Trainee Program (w/m/d)",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-03-10",
+      "posted_days_ago": 126,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1465507-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1465507-2-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "SAP Fast Track Trainee Program: Accounting, Controlling and Business Analytics (w/m/d)",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-02-26",
+      "posted_days_ago": 138,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1446403-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1446403-2-S"
+    },
+    {
+      "company": "FERCHAU GmbH Niederlassung München Mobility",
+      "title": "Sales Trainee (m/w/d)",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-06-23",
+      "posted_days_ago": 21,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-481114_JB5179111-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ferchau-gmbh-niederlassung-m-nchen-mobility&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12265-481114_JB5179111-S"
+    },
+    {
+      "company": "Findehotelpersonal GmbH",
+      "title": "Food & Beverage Management Trainee (m/w/d)",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-06-19",
+      "posted_days_ago": 25,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15284-k44754.60606-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=findehotelpersonal-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15284-k44754.60606-S"
+    },
+    {
       "company": "Flix",
       "title": "Junior DevOps Engineer (m/f/d)",
       "type": "Junior",
@@ -290,6 +1456,72 @@
       "posted_days_ago": 7,
       "raw_url": "https://flix.careers/job/8620664002?gh_jid=8620664002",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=flix&url=https%3A%2F%2Fflix.careers%2Fjob%2F8620664002%3Fgh_jid%3D8620664002"
+    },
+    {
+      "company": "Hotel Bayerischer Hof",
+      "title": "Trainee Rooms-Division (m/w/d)",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-07-07",
+      "posted_days_ago": 7,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MQI90U-ZZW-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=hotel-bayerischer-hof&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-MQI90U-ZZW-S"
+    },
+    {
+      "company": "Hotel Bayerischer Hof",
+      "title": "Trainee Einkauf (m/w/d)",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-07-04",
+      "posted_days_ago": 10,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-40NGYN-HDW-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=hotel-bayerischer-hof&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-40NGYN-HDW-S"
+    },
+    {
+      "company": "Hotel Bayerischer Hof",
+      "title": "Trainee in der Administration (m/w/d)",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-07-01",
+      "posted_days_ago": 13,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-3S7K46-0QH-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=hotel-bayerischer-hof&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-3S7K46-0QH-S"
+    },
+    {
+      "company": "Hotel Bayerischer Hof",
+      "title": "F&B Management Trainee (m/w/d)",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-07-01",
+      "posted_days_ago": 13,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-V88Y3Q-8EA-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=hotel-bayerischer-hof&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-V88Y3Q-8EA-S"
+    },
+    {
+      "company": "ProSiebenSat.1 Media SE",
+      "title": "Trainee Media Sales & Consulting (m/w/d)",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-06-25",
+      "posted_days_ago": 19,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15224-44269144-624-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=prosiebensat-1-media-se&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15224-44269144-624-S"
+    },
+    {
+      "company": "Richard Pflaum Verlag GmbH & Co. KG",
+      "title": "Sales Trainee (m/w/d) Vollzeit / Teilzeit",
+      "type": "Junior",
+      "city": "Munich",
+      "location": "München",
+      "posted": "2026-07-13",
+      "posted_days_ago": 1,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-SDE-106098-STA-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=richard-pflaum-verlag-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F11858-SDE-106098-STA-S"
     },
     {
       "company": "Tacto",
@@ -380,6 +1612,28 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=celonis&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fcelonis%2Fjobs%2F7767354003%3Fgh_jid%3D7767354003"
     },
     {
+      "company": "FINN",
+      "title": "Working Student - Accounts Payable (m/w/d)",
+      "type": "Werkstudent",
+      "city": "Munich",
+      "location": "Munich",
+      "posted": "2026-07-10T14:37:01.935Z",
+      "posted_days_ago": 3,
+      "raw_url": "https://jobs.lever.co/finn/ea37f30a-0aa0-4339-adc5-f948afe2af37",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finn&url=https%3A%2F%2Fjobs.lever.co%2Ffinn%2Fea37f30a-0aa0-4339-adc5-f948afe2af37"
+    },
+    {
+      "company": "FINN",
+      "title": "Working Student Operations and Car Handover - Onsite (m/w/d)",
+      "type": "Werkstudent",
+      "city": "Munich",
+      "location": "Munich",
+      "posted": "2026-06-17T13:28:21.163Z",
+      "posted_days_ago": 26,
+      "raw_url": "https://jobs.lever.co/finn/da172d0e-e4dc-4c06-b81c-aba8ba244374",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finn&url=https%3A%2F%2Fjobs.lever.co%2Ffinn%2Fda172d0e-e4dc-4c06-b81c-aba8ba244374"
+    },
+    {
       "company": "KONUX",
       "title": "Working Student Legal (m/f/x)",
       "type": "Werkstudent",
@@ -389,6 +1643,94 @@
       "posted_days_ago": 5,
       "raw_url": "https://job-boards.greenhouse.io/konux/jobs/7793444003",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=konux&url=https%3A%2F%2Fjob-boards.greenhouse.io%2Fkonux%2Fjobs%2F7793444003"
+    },
+    {
+      "company": "cbs Corporate Business Solutions Unternehmensberatung GmbH",
+      "title": "Trainee SAP - IT & Digitalization (m/w/d)",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Dortmund",
+      "posted": "2026-06-02",
+      "posted_days_ago": 42,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12814-11166063-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=cbs-corporate-business-solutions-unternehmensberatung-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12814-11166063-S"
+    },
+    {
+      "company": "Elsen Int. GmbH & Co. KG",
+      "title": "Trainee (m/w/d) Logistik",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Nürnberg, Mittelfranken",
+      "posted": "2026-06-02",
+      "posted_days_ago": 42,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15253-5PSYRD4HCOCJ1CA1-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=elsen-int-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15253-5PSYRD4HCOCJ1CA1-S"
+    },
+    {
+      "company": "FERCHAU Contract GmbH Hannover CONTRACT",
+      "title": "Sales Trainee (m/w/d)",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Hannover",
+      "posted": "2026-07-06",
+      "posted_days_ago": 8,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-507772_JB5190048-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ferchau-contract-gmbh-hannover-contract&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12265-507772_JB5190048-S"
+    },
+    {
+      "company": "FERCHAU GmbH Niederlassung Bremen City",
+      "title": "(Junior) Talent Acquisition Specialist (m/w/d)",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Bremen",
+      "posted": "2026-06-19",
+      "posted_days_ago": 25,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-509419_JB5175793-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ferchau-gmbh-niederlassung-bremen-city&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12265-509419_JB5175793-S"
+    },
+    {
+      "company": "Finanz Informatik",
+      "title": "Trainee IT (m/w/d)",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Hannover",
+      "posted": "2026-07-03",
+      "posted_days_ago": 11,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-229107-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finanz-informatik&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-229107-S"
+    },
+    {
+      "company": "Finanz Informatik GmbH & Co. KG",
+      "title": "Trainee IT (m/w/d)",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Hannover",
+      "posted": "2026-06-24",
+      "posted_days_ago": 20,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-203207-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finanz-informatik-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13884-203207-S"
+    },
+    {
+      "company": "Finanz Informatik GmbH & Co. KG",
+      "title": "Trainee Business/Banking (m/w/d)",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Hannover",
+      "posted": "2026-06-24",
+      "posted_days_ago": 20,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-203206-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finanz-informatik-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13884-203206-S"
+    },
+    {
+      "company": "FINN",
+      "title": "Junior Specialist (m/w/d) – Fleet Operations Support & Authority Requests (m/w/d)",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Germany",
+      "posted": "2026-06-25T08:21:53.369Z",
+      "posted_days_ago": 18,
+      "raw_url": "https://jobs.lever.co/finn/9fce8ac6-c078-4dc2-8a60-8944d8728a5b",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=finn&url=https%3A%2F%2Fjobs.lever.co%2Ffinn%2F9fce8ac6-c078-4dc2-8a60-8944d8728a5b"
     },
     {
       "company": "Isar Aerospace",
@@ -413,6 +1755,17 @@
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=isar-aerospace&url=https%3A%2F%2Fjob-boards.eu.greenhouse.io%2Fisaraerospace%2Fjobs%2F4873721101"
     },
     {
+      "company": "ivv Informationsverarbeitung für Versicherungen",
+      "title": "Trainee IT (m/w/d)",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Hannover",
+      "posted": "2026-07-12",
+      "posted_days_ago": 2,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-298301-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ivv-informationsverarbeitung-f-r-versicherungen&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F13644-298301-S"
+    },
+    {
       "company": "Motel One Hannover Oper",
       "title": "Management Trainee Hospitality (m/f/d) Hannover",
       "type": "Junior",
@@ -422,6 +1775,17 @@
       "posted_days_ago": 2,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-1COYMQ-TP5-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=motel-one-hannover-oper&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12518-1COYMQ-TP5-S"
+    },
+    {
+      "company": "onmari.com e.K.",
+      "title": "Trainee (m/w/d) Online Marketing",
+      "type": "Junior",
+      "city": "Other DACH",
+      "location": "Bremen",
+      "posted": "2026-06-01",
+      "posted_days_ago": 43,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206684205-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=onmari-com-e-k&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10000-1206684205-S"
     },
     {
       "company": "VDM Metals GmbH",
@@ -499,6 +1863,149 @@
       "posted_days_ago": 12,
       "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003320645-S",
       "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=jac-recruitment-germany-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10001-1003320645-S"
+    },
+    {
+      "company": "Detlev Louis",
+      "title": "Trainee Store Manager (m/w/d),Aalen,Heilbronn,Kaise...",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2025-07-28",
+      "posted_days_ago": 351,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-1876530-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=detlev-louis&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12811-1876530-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "SAPXcellence Fast Track Trainee Program (w/m/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-05-15",
+      "posted_days_ago": 60,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1428931-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1428931-2-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "Consultant Risk Management - Fast Track Trainee Program (w/m/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-03-10",
+      "posted_days_ago": 126,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1465507-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1465507-2-S"
+    },
+    {
+      "company": "EY Consulting GmbH",
+      "title": "SAP Fast Track Trainee Program: Accounting, Controlling and Business Analytics (w/m/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-02-26",
+      "posted_days_ago": 138,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1446403-2-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=ey-consulting-gmbh&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F15548-1446403-2-S"
+    },
+    {
+      "company": "Heinrich Schmid GmbH & Co. KG",
+      "title": "Trainee Innenausbau (m/w/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-05-12",
+      "posted_days_ago": 63,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14456-k11173.26783-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=heinrich-schmid-gmbh-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F14456-k11173.26783-S"
+    },
+    {
+      "company": "LBBW",
+      "title": "Trainee Capital Markets (m/w/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-07-08",
+      "posted_days_ago": 6,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4879434300-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=lbbw&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12288-4879434300-S"
+    },
+    {
+      "company": "LBBW",
+      "title": "Trainee (m/w/d) Risk Management - Schwerpunkt Corporate Finance",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-07-01",
+      "posted_days_ago": 13,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4871164475-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=lbbw&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12288-4871164475-S"
+    },
+    {
+      "company": "Primark Mode Ltd. & Co. KG",
+      "title": "Management Trainee (w/m/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-07-01",
+      "posted_days_ago": 13,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207031248-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=primark-mode-ltd-co-kg&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F10000-1207031248-S"
+    },
+    {
+      "company": "SV SparkassenVersicherung",
+      "title": "Trainee Mathematik (m/w/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-07-13",
+      "posted_days_ago": 1,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4886781213-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=sv-sparkassenversicherung&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12288-4886781213-S"
+    },
+    {
+      "company": "SV SparkassenVersicherung",
+      "title": "Trainee Business Analyst:in (m/w/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-07-13",
+      "posted_days_ago": 1,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4886768394-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=sv-sparkassenversicherung&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12288-4886768394-S"
+    },
+    {
+      "company": "SV SparkassenVersicherung",
+      "title": "Trainee Transformation Kundendatenmanagement (m/w/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-07-13",
+      "posted_days_ago": 1,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4886794247-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=sv-sparkassenversicherung&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12288-4886794247-S"
+    },
+    {
+      "company": "SV SparkassenVersicherung",
+      "title": "Trainee SAP Consultant Finance (m/w/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-07-13",
+      "posted_days_ago": 1,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4886763062-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=sv-sparkassenversicherung&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12288-4886763062-S"
+    },
+    {
+      "company": "SV SparkassenVersicherung",
+      "title": "Trainee Controlling/ Mathematik - Lebensversicherung (m/w/d)",
+      "type": "Junior",
+      "city": "Stuttgart",
+      "location": "Stuttgart",
+      "posted": "2026-07-13",
+      "posted_days_ago": 1,
+      "raw_url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4886772988-S",
+      "careerkit_apply_url": "https://careerkit.me/api/apply?src=english-jobs-germany&company=sv-sparkassenversicherung&url=https%3A%2F%2Fwww.arbeitsagentur.de%2Fjobsuche%2Fjobdetail%2F12288-4886772988-S"
     },
     {
       "company": "KPMG Österreich",
